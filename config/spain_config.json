@@ -4,7 +4,7 @@
     "es": "España",
     "en": "Spain"
   },
-  "supported_languages": ["es", "en"],
+  "supported_locales": ["es", "en"],
   "external_user_settings" : true,
   "has_wifi": false,
   "allow_topup": false
