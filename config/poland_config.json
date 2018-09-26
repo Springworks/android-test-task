@@ -4,7 +4,7 @@
     "pl": "Polska",
     "en": "Poland"
   },
-  "supported_languages": ["pl", "en"],
+  "supported_locales": ["pl", "en"],
   "external_user_settings" : false,
   "has_wifi": true,
   "allow_topup": false
