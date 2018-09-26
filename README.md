@@ -12,7 +12,11 @@ All this data provided from the server as configuration in a *json* format.
 You also have a design which shows all existing UI elements you could have  
 
 # Design
+Design provided in a [Sketch file](/settings-screen.sketch) 
+
 ![Settings Screen](/settings-screen.png)
+![WiFi Edit Screen](/wifi-edit-screen.png)
+![Color Palette](/theme.png)
 
 # implementation 
 All up to you
