@@ -7,8 +7,7 @@ The Product supports Swedish/Danish/English/Swiss-German/Italian/French language
 Imagine, you have few different *markets*, where your app will be presented: Sweden, Spain, Poland. Each *market* has specific requirements which defines: 
 1. How to show user information. Some *markets* could display it in the app, other should navigate to external website.
 2. Some *markets* has a WiFi feature, other don't.
-3. Some *markets* supports HardwareA other HardwareB and HardwareC
-4. Each market has list of supported languages. 
+3. Each market has list of supported languages. 
 Thats mean the app should support only specific languages for a selected market.
 
 Example: You have Spanish, Swedish and English translations. Market 'sweden' supports locales "se" and "en". 
