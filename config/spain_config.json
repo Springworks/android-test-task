@@ -1,0 +1,12 @@
+{
+  "market": "spain",
+  "market_display_name": {
+    "es": "España",
+    "en": "Spain"
+  },
+  "supported_languages": ["es", "en"],
+  "external_user_settings" : true,
+  "hardware_type": ["HardwareA", "HardwareB"],
+  "has_wifi": false,
+  "allow_topup": false
+}

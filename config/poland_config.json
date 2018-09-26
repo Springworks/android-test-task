@@ -1,0 +1,12 @@
+{
+  "market": "poland",
+  "market_display_name": {
+    "pl": "Polska",
+    "en": "Poland"
+  },
+  "supported_languages": ["pl", "en"],
+  "external_user_settings" : false,
+  "hardware_type": ["HardwareC"],
+  "has_wifi": true,
+  "allow_topup": false
+}

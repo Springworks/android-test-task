@@ -1,0 +1,12 @@
+{
+  "market": "sweden",
+  "market_display_name": {
+    "se": "Svenska",
+    "en": "Sweden"
+  },
+  "supported_languages": ["se", "en"],
+  "external_user_settings" : false,
+  "hardware_type": ["HardwareA"],
+  "has_wifi": true,
+  "allow_topup": true
+}
