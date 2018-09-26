@@ -6,13 +6,19 @@ In our project we support Swedish/Danish/English/Swiss-German/Italian/French lan
 # Initial information
 Imagine that you have few different *markets* where your app will be presented: Sweden, Spain, Poland. Each *market* has specific requirements which defines: 
 1. How to show user information, some *markets* could display it in the app, other should navigate to external website
-2. Some *markets* has WiFi feature, other don't.
+2. Some *markets* has a WiFi feature, other don't.
 3. Some *markets* supports HardwareA other HardwareB and HardwareC
+4. Each market has list of supported languages. 
+Thats mean the app should support only specific languages for a selected market.
+Example: You have Spanish, Swedish and English translations. For market Sweden supported locales "se" and "en". If user start the app with Swedish locale on the phone, he should see app in swedish. If user start the app with Danish locale on the phone, he should see app in english. If user start the app with Spanish locale on the phone, he still should see it in english, because "es" not supported by market.
 All this data provided from the server as configuration in a *json* format.
+All translations provided from the server in a *json* format.
 You also have a design which shows all existing UI elements you could have  
 
 # Design
 Design provided in a [Sketch file](/settings-screen.sketch) 
+
+If you don't have Sketch, use this exported images.
 
 ![Settings Screen](/settings-screen.png)
 ![WiFi Edit Screen](/wifi-edit-screen.png)
