@@ -33,7 +33,7 @@ Using initial information and all provided resources, you need to write an Andro
 1. Use Java or Kotlin or both, it's up to you.
 2. Frameworks/Libraries up to you.
 3. Think about this app as a potential big scalable project.
-4. The app should have a Settings screen which displays information according provided market configuration.
+4. The app should have a Settings screen which displays [information](/user_data) according provided [Market configuration](/config).
 5. User should be able to change WiFi name and password.
 6. The app should persist state during configuration changes.
 7. The app should support only specific locales for market.
