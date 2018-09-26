@@ -12,6 +12,7 @@ All this data provided from the server as configuration in a *json* format.
 You also have a design which shows all existing UI elements you could have  
 
 # Design
+![Settings Screen](/settings-screen.png)
 
 # implementation 
 All up to you
