@@ -6,7 +6,6 @@
   },
   "supported_languages": ["pl", "en"],
   "external_user_settings" : false,
-  "hardware_type": ["HardwareC"],
   "has_wifi": true,
   "allow_topup": false
 }
