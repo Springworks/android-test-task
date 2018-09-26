@@ -4,7 +4,7 @@
     "se": "Svenska",
     "en": "Sweden"
   },
-  "supported_languages": ["se", "en"],
+  "supported_locales": ["se", "en"],
   "external_user_settings" : false,
   "has_wifi": true,
   "allow_topup": true
