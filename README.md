@@ -44,3 +44,6 @@ Using initial information and all provided resources, you need to write an Andro
 1. We don't care which library you will use to parse a json
 2. We don't care about edge cases for stuff like storing, reading, parsing of intiail data
 3. You don't even need to test file reading, parsing, and etc.
+
+# Submiting
+Just send us your code along with a description on how to run the app and the tests. If there is anything that you have not had time to complete or intentionally left out please reason on how you would implement it or why it was left out.
