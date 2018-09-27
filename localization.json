@@ -3,7 +3,7 @@
     "user_preferences": {
       "title": {
         "en": "User Preferences",
-        "se": "Användar preferenser",
+        "se": "Användarinställningar",
         "pl": "Preferencje użytkownika",
         "es": "Preferencias de usuario"
       },
@@ -33,9 +33,9 @@
       },
       "external_button_title": {
         "en": "show preferences",
-        "se": "mostrar preferencias",
+        "se": "visa preferenser",
         "pl": "pokaż preferencje",
-        "es": "visa preferenser"
+        "es": "mostrar preferencias"
       }
     },
     "wifi": {
