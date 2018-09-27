@@ -1,6 +1,6 @@
 # Android Test Task Introduction
 
-Springworks's product is live in a several different countries such as Sweden, Denmark and Switzerland.
+Springworks' product is live in a several different countries such as Sweden, Denmark and Switzerland.
 The Product supports Swedish/Danish/English/Swiss-German/Italian/French languages. Each market has a different configuration and different requirements. To support all of them, the app should be really flexible, views-dynamic and based on a data fetched from the server. That's why we want to see how you will solve similar problem.
 
 # Initial information
