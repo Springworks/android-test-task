@@ -15,6 +15,9 @@ Example: You have Spanish, Swedish and English translations. Market 'sweden' sup
 * If a user starts the app with Danish locale on the phone, he should see the app in english. 
 * If a user starts the app with Spanish locale on the phone, he should still see it in english, because "es" not supported by market.
 
+Market should be configured with the app build.
+To configure the 'market' for the app, just hardcode a value in build.gradle or Application. So to build app for market 'Sweden' you need to set param in build.gradle to 'sweden' to build for Spain to 'spain' and etc.
+
 All data is provided from the server as configuration in a *json* format.
 All translations are provided from the server in a *json* format.
 You also have a design which shows all existing UI elements you could have  
