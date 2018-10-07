@@ -3,84 +3,84 @@
     "user_preferences": {
       "title": {
         "en": "User Preferences",
-        "se": "Användarinställningar",
+        "sv": "Användar preferenser",
         "pl": "Preferencje użytkownika",
         "es": "Preferencias de usuario"
       },
       "email_label": {
         "en": "Email",
-        "se": "E-post",
+        "sv": "E-post",
         "pl": "E-mail",
         "es": "Email"
       },
       "password_label": {
         "en": "Password",
-        "se": "Lösenord",
+        "sv": "Lösenord",
         "pl": "Hasło",
         "es": "Contraseña"
       },
       "external_title": {
         "en": "External User Preferences",
-        "se": "Externa användarinställningar",
+        "sv": "Externa användarinställningar",
         "pl": "Zewnętrzne preferencje użytkownika",
         "es": "Preferencias de usuario externo"
       },
       "external_footer": {
         "en": "All user preferences provided by a {market_name}.\nTo review and modify them go to website.",
-        "se": "Alla användarinställningar som tillhandahålls av en {market_name}.\nFör att granska och ändra dem gå till hemsidan.",
+        "sv": "Alla användarinställningar som tillhandahålls av en {market_name}.\nFör att granska och ändra dem gå till hemsidan.",
         "pl": "Wszystkie preferencje użytkownika dostarczone przez {market_name}.\nAby przejrzeć i zmodyfikować je, przejdź do strony internetowej.",
         "es": "Todas las preferencias de usuario proporcionadas por un {market_name}.\nPara revisarlos y modificarlos, vaya al sitio web."
       },
       "external_button_title": {
         "en": "show preferences",
-        "se": "visa preferenser",
+        "sv": "mostrar preferencias",
         "pl": "pokaż preferencje",
-        "es": "mostrar preferencias"
+        "es": "visa preferenser"
       }
     },
     "wifi": {
       "title": {
         "en": "WiFi",
-        "se": "WiFi",
+        "sv": "WiFi",
         "pl": "WiFi",
         "es": "WiFi"
       },
       "car_wifi": {
         "en": "Car WiFi",
-        "se": "Bil WiFi",
+        "sv": "Bil WiFi",
         "pl": "Samochód WiFi",
         "es": "WiFi de coche"
       },
       "network_name_label": {
         "en": "Network name",
-        "se": "Nätverksnamn",
+        "sv": "Nätverksnamn",
         "pl": "Nazwa sieci",
         "es": "Nombre de red"
       },
       "network_password_label": {
         "en": "Password",
-        "se": "Lösenord",
+        "sv": "Lösenord",
         "pl": "Hasło",
         "es": "Contraseña"
       },
       "network_description": {
         "en": "Connect to the WiFi network '{wifi_name}'.\n\nWifi activated a couple of minutes after starting your car.\nIt is only available while driving and for a short time afterwards.",
-        "se": "Anslut till WiFi-nätverket '{wifi_name}'.\n\nWifi aktiverade ett par minuter efter att du startat din bil.\nDet är bara tillgängligt under körning och kort tid efteråt.",
+        "sv": "Anslut till WiFi-nätverket '{wifi_name}'.\n\nWifi aktiverade ett par minuter efter att du startat din bil.\nDet är bara tillgängligt under körning och kort tid efteråt.",
         "pl": "Połącz się z siecią Wi-Fi '{wifi_name}'.\n\nWifi aktywował się kilka minut po uruchomieniu samochodu.\nTo jest dostępne tylko podczas jazdy i przez krótki czas po nim.",
         "es": "Conéctese a la red WiFi '{wifi_name}'.\n\nWifi se activará un par de minutos después de encender su automóvil.\nSolo está disponible mientras conduce y durante un corto período de tiempo después."
       },
       "network_data_label": {
         "en": "Remaining data",
-        "se": "Återstående data",
+        "sv": "Återstående data",
         "pl": "Pozostałe dane",
         "es": "Datos restantes"
       },
       "network_more_button": {
         "en": "get more data",
-        "se": "få mer data",
+        "sv": "få mer data",
         "pl": "uzyskać więcej danych",
         "es": "obtener más datos"
-      },
+      }
     }
   }
 }
