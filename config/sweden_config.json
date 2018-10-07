@@ -1,10 +1,10 @@
 {
   "market": "sweden",
   "market_display_name": {
-    "se": "Svenska",
+    "sv": "Svenska",
     "en": "Sweden"
   },
-  "supported_locales": ["se", "en"],
+  "supported_locales": ["sv", "en"],
   "external_user_settings" : false,
   "has_wifi": true,
   "allow_topup": true
