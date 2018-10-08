@@ -68,18 +68,6 @@
         "sv": "Anslut till WiFi-nätverket '{wifi_name}'.\n\nWifi aktiverade ett par minuter efter att du startat din bil.\nDet är bara tillgängligt under körning och kort tid efteråt.",
         "pl": "Połącz się z siecią Wi-Fi '{wifi_name}'.\n\nWifi aktywował się kilka minut po uruchomieniu samochodu.\nTo jest dostępne tylko podczas jazdy i przez krótki czas po nim.",
         "es": "Conéctese a la red WiFi '{wifi_name}'.\n\nWifi se activará un par de minutos después de encender su automóvil.\nSolo está disponible mientras conduce y durante un corto período de tiempo después."
-      },
-      "network_data_label": {
-        "en": "Remaining data",
-        "sv": "Återstående data",
-        "pl": "Pozostałe dane",
-        "es": "Datos restantes"
-      },
-      "network_more_button": {
-        "en": "get more data",
-        "sv": "få mer data",
-        "pl": "uzyskać więcej danych",
-        "es": "obtener más datos"
       }
     }
   }
