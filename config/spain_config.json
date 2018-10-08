@@ -6,6 +6,5 @@
   },
   "supported_locales": ["es", "en"],
   "external_user_settings" : true,
-  "has_wifi": false,
-  "allow_topup": false
+  "has_wifi": false
 }
